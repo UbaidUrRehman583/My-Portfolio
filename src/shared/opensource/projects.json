@@ -1,122 +1,172 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "project_1",
+      "name": "Gold Rate Live",
+      "createdAt": "2022-05-01T00:00:00Z",
+      "url": "#",
+      "description": "Android app showing live gold rates using real-time APIs. Built with MVVM architecture and integrated AdMob for monetization.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Java",
+          "iconifyClass": "logos:java"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "XML",
+          "iconifyClass": "vscode-icons:file-type-xml"
         }
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "project_2",
+      "name": "Software Update Utility",
+      "createdAt": "2022-01-15T00:00:00Z",
+      "url": "#",
+      "description": "A utility Android app to check updates for installed applications. Integrated ads, background service, and RecyclerView listing.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Java",
+          "iconifyClass": "logos:java"
+        },
+        {
+          "name": "XML",
+          "iconifyClass": "vscode-icons:file-type-xml"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "project_3",
+      "name": "Offline Maps",
+      "createdAt": "2022-07-20T00:00:00Z",
+      "url": "#",
+      "description": "Offline map navigation app built with Mapbox SDK. Supports offline caching and location tracking without internet.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Java",
+          "iconifyClass": "logos:java"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Mapbox",
+          "iconifyClass": "simple-icons:mapbox"
         }
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "project_4",
+      "name": "JS Bank",
+      "createdAt": "2023-02-01T00:00:00Z",
+      "url": "#",
+      "description": "Digital banking app offering full-stack wallet features including bill payments, QR payments, biometric verification (BVS SDK), and clean architecture with Jetpack Compose.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Kotlin",
+          "iconifyClass": "logos:kotlin"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "XML",
+          "iconifyClass": "vscode-icons:file-type-xml"
         }
       ]
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "id": "project_5",
+      "name": "Zindigi",
+      "createdAt": "2023-02-01T00:00:00Z",
+      "url": "#",
+      "description": "Digital banking app offering full-stack wallet features including bill payments, QR payments, biometric verification (BVS SDK), and clean architecture with Jetpack Compose.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Kotlin",
+          "iconifyClass": "logos:kotlin"
+        },
+        {
+          "name": "XML",
+          "iconifyClass": "vscode-icons:file-type-xml"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "id": "project_6",
+      "name": "Bank Islami App",
+      "createdAt": "2023-04-15T00:00:00Z",
+      "url": "#",
+      "description": "Contributed to core modules of Bank Islami’s mobile banking app, including secure login, payment flows, and API layer refactoring using MVVM and Jetpack components.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Kotlin",
+          "iconifyClass": "logos:kotlin"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "XML",
+          "iconifyClass": "vscode-icons:file-type-xml"
+        }
+      ]
+    },
+    {
+      "id": "project_7",
+      "name": "Aik Digital Wallet",
+      "createdAt": "2023-05-20T00:00:00Z",
+      "url": "#",
+      "description": "Worked on wallet onboarding, user KYC, and secure transaction flows. Integrated Firebase, biometric login, and in-app notifications.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Kotlin",
+          "iconifyClass": "logos:kotlin"
+        },
+        {
+          "name": "Jetpack Compose",
+          "iconifyClass": "simple-icons:jetpackcompose"
+        }
+      ]
+    },
+    {
+      "id": "project_8",
+      "name": "WebRTC Audio/Video Call App",
+      "createdAt": "2023-08-05T00:00:00Z",
+      "url": "#",
+      "description": "A personal learning project using WebRTC to implement peer-to-peer audio and video calling. Developed a custom signaling server using WebSockets and implemented media stream handling in Android using Kotlin.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Kotlin",
+          "iconifyClass": "logos:kotlin"
+        },
+        {
+          "name": "WebRTC",
+          "iconifyClass": "simple-icons:webrtc"
+        },
+        {
+          "name": "WebSocket",
+          "iconifyClass": "simple-icons:websocket"
+        }
+      ]
+    },
+    {
+      "id": "project_9",
+      "name": "DevOps CI/CD Pipeline for Android",
+      "createdAt": "2023-09-10T00:00:00Z",
+      "url": "#",
+      "description": "Implemented a Jenkins-based CI/CD pipeline that automatically builds Android APKs and pushes code to the repository. Included steps for unit testing, code quality checks, versioning, and secure deployment to internal Play Store tracks.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Groovy",
+          "iconifyClass": "simple-icons:groovy"
+        },
+        {
+          "name": "Jenkins",
+          "iconifyClass": "simple-icons:jenkins"
+        },
+        {
+          "name": "Gradle",
+          "iconifyClass": "logos:gradle"
         }
       ]
     }
