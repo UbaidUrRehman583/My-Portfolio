@@ -540,10 +540,10 @@
               title: "Android Development",
               fileName: "AndroidDevImg",
               skills: [
-                "\u26a1 Building scalable and secure Android applications for fintech platforms using Kotlin and Jetpack Compose",
-                "\u26a1 Integrating payment gateways, biometric verification (BVS SDK), and QR code systems aligned with financial regulations",
-                "\u26a1 Implementing clean architecture (MVVM, Use Cases, Repository Pattern) for maintainable and modular codebases",
-                "\u26a1 Optimizing performance and protecting apps using Proguard and Dexguard for code obfuscation and runtime security",
+                "Building scalable and secure Android applications for fintech platforms using Kotlin and Jetpack Compose",
+                "Integrating payment gateways, biometric verification (BVS SDK), and QR code systems aligned with financial regulations",
+                "Implementing clean architecture (MVVM, Use Cases, Repository Pattern) for maintainable and modular codebases",
+                "Optimizing performance and protecting apps using Proguard and Dexguard for code obfuscation and runtime security",
               ],
               softwareSkills: [
                 {
@@ -583,8 +583,8 @@
               logo_path: "arid_logo.png",
               duration: "2017 - 2021",
               descriptions: [
-                "\u26a1 Covered core BSIT subjects including Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Java, .NET, Database Management Systems (DBMS), Calculus etc.",
-                "\u26a1 Gained hands-on experience through semester projects involving Android app development, database design, and full-stack web applications.",
+                "Covered core BSIT subjects including Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Java, .NET, Database Management Systems (DBMS), Calculus etc.",
+                "Gained hands-on experience through semester projects involving Android app development, database design, and full-stack web applications.",
               ],
               website_link: "http://iiitk.ac.in",
             },
@@ -706,7 +706,7 @@
           title: "Experience",
           subtitle: "Work and Internship",
           description:
-            " I have worked as an Android Developer, contributing to secure, scalable, and user-centric mobile apps. My experience spans mobile architecture design, UI development with Jetpack Compose, SDK integration, and code optimization. I also actively engage with tech communities and enjoy contributing to open-source initiatives and knowledge sharing.",
+            "I have worked as an Android Developer, contributing to secure, scalable, and user-centric mobile apps. My experience spans mobile architecture design, UI development with Jetpack Compose, SDK integration, and code optimization. I also actively engage with tech communities and enjoy contributing to open-source initiatives and knowledge sharing.",
           header_image_path: "experience.svg",
           sections: [
             {
@@ -733,7 +733,7 @@
                   company: "AppInSnap",
                   company_url: "https://www.appinsnap.com/",
                   logo_path: "appinsnap_logo.png",
-                  duration: "Nov 2021 \u2013 Present",
+                  duration: "Nov 2021  Present",
                   location: "Islamabad, Pakistan",
                   description:
                     "Leading the design and development of scalable fintech Android applications. Responsibilities include building secure payment systems, integrating third-party APIs (e.g., QR, BVS SDK), implementing clean architecture (MVVM, Use Cases, Repository Pattern), and managing releases on the Google Play Store. Optimized code using Proguard, and ensured runtime security with Dexguard.",
