@@ -481,7 +481,7 @@
         u = (a(99), a(3));
       const p = !0,
         g = {
-          title: "Ubaid's Portfolio",
+          title: "Ashutosh's Portfolio",
           description:
             "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
           og: {
