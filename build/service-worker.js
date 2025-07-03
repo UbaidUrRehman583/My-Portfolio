@@ -16,7 +16,7 @@ importScripts(
 );
 
 importScripts(
-  "/My-Portfolio/precache-manifest.cede422d3ba3e0b2335b2e15d99a24e6.js"
+  "/My-Portfolio/precache-manifest.2c5d01c624371f9fc1f84ae8ea9f5637.js"
 );
 
 self.addEventListener("message", (event) => {
