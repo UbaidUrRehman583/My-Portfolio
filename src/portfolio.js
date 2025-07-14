@@ -82,10 +82,10 @@ const skills = {
       title: "Android Development",
       fileName: "AndroidDevImg",
       skills: [
-        "⚡ Building scalable and secure Android applications for fintech platforms using Kotlin and Jetpack Compose",
-        "⚡ Integrating payment gateways, biometric verification (BVS SDK), and QR code systems aligned with financial regulations",
-        "⚡ Implementing clean architecture (MVVM, Use Cases, Repository Pattern) for maintainable and modular codebases",
-        "⚡ Optimizing performance and protecting apps using Proguard and Dexguard for code obfuscation and runtime security",
+        "Building scalable and secure Android applications for fintech platforms using Kotlin and Jetpack Compose",
+        "Integrating payment gateways, biometric verification (BVS SDK), and QR code systems aligned with financial regulations",
+        "Implementing clean architecture (MVVM, Use Cases, Repository Pattern) for maintainable and modular codebases",
+        "Optimizing performance and protecting apps using Proguard and Dexguard for code obfuscation and runtime security",
       ],
       softwareSkills: [
         {
@@ -193,8 +193,8 @@ const degrees = {
       //alt_name: "IIITDM Kurnool",
       duration: "2017 - 2021",
       descriptions: [
-        "⚡ Covered core BSIT subjects including Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Java, .NET, Database Management Systems (DBMS), Calculus etc.",
-        "⚡ Gained hands-on experience through semester projects involving Android app development, database design, and full-stack web applications.",
+        "Covered core BSIT subjects including Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Java, .NET, Database Management Systems (DBMS), Calculus etc.",
+        "Gained hands-on experience through semester projects involving Android app development, database design, and full-stack web applications.",
       ],
 
       website_link: "http://iiitk.ac.in",
