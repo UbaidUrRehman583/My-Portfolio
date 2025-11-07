@@ -476,16 +476,16 @@
         i = a(297),
         c = a(19),
         h = a(312),
-        m = (a(97), a(98), a(5)),
-        d = (a(99), a(3)),
-        u = a(6);
-      const p = !1,
+        m = (a(97), a(98), a(7)),
+        d = a(5),
+        u = (a(99), a(3));
+      const p = !0,
         g = {
-          title: "Ashutosh's Portfolio",
+          title: "Ubaid's Portfolio",
           description:
             "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
           og: {
-            title: "Ashutosh Hathidara Portfolio",
+            title: "Ubaid Hathidara Portfolio",
             type: "website",
             url: "http://ashutoshhathidara.com/",
           },
@@ -871,7 +871,7 @@
           const t = this.props.theme,
             e = p ? "/splash" : "home";
           return s.a.createElement(
-            d.Fade,
+            u.Fade,
             { top: !0, duration: 1e3, distance: "20px" },
             s.a.createElement(N, null),
             s.a.createElement(
@@ -881,8 +881,8 @@
                 "header",
                 { className: "header" },
                 s.a.createElement(
-                  u.c,
-                  { to: e, tag: u.b, className: "logo" },
+                  m.c,
+                  { to: e, tag: m.b, className: "logo" },
                   s.a.createElement("span", { style: { color: t.text } }, " <"),
                   s.a.createElement(
                     "span",
@@ -908,10 +908,10 @@
                     "li",
                     null,
                     s.a.createElement(
-                      u.c,
+                      m.c,
                       {
                         to: "/home",
-                        tag: u.b,
+                        tag: m.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: t.text },
                         onMouseEnter: (e) => B(e, t.highlight),
@@ -924,10 +924,10 @@
                     "li",
                     null,
                     s.a.createElement(
-                      u.c,
+                      m.c,
                       {
                         to: "/education",
-                        tag: u.b,
+                        tag: m.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: t.text },
                         onMouseEnter: (e) => B(e, t.highlight),
@@ -940,10 +940,10 @@
                     "li",
                     null,
                     s.a.createElement(
-                      u.c,
+                      m.c,
                       {
                         to: "/experience",
-                        tag: u.b,
+                        tag: m.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: t.text },
                         onMouseEnter: (e) => B(e, t.highlight),
@@ -956,10 +956,10 @@
                     "li",
                     null,
                     s.a.createElement(
-                      u.c,
+                      m.c,
                       {
                         to: "/projects",
-                        tag: u.b,
+                        tag: m.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: t.text },
                         onMouseEnter: (e) => B(e, t.highlight),
@@ -972,10 +972,10 @@
                     "li",
                     null,
                     s.a.createElement(
-                      u.c,
+                      m.c,
                       {
                         to: "/contact",
-                        tag: u.b,
+                        tag: m.b,
                         activeStyle: { fontWeight: "bold" },
                         style: { color: t.text },
                         onMouseEnter: (e) => B(e, t.highlight),
@@ -1472,7 +1472,7 @@
       function X(t) {
         const e = t.theme;
         return s.a.createElement(
-          d.Fade,
+          u.Fade,
           { bottom: !0, duration: 2e3, distance: "40px" },
           s.a.createElement(
             "div",
@@ -3831,7 +3831,7 @@
                 "div",
                 { key: a, className: "skills-main-div" },
                 s.a.createElement(
-                  d.Fade,
+                  u.Fade,
                   { left: !0, duration: 2e3 },
                   s.a.createElement(
                     "div",
@@ -3843,7 +3843,7 @@
                   "div",
                   { className: "skills-text-div" },
                   s.a.createElement(
-                    d.Fade,
+                    u.Fade,
                     { right: !0, duration: 1e3 },
                     s.a.createElement(
                       "h1",
@@ -3852,12 +3852,12 @@
                     )
                   ),
                   s.a.createElement(
-                    d.Fade,
+                    u.Fade,
                     { right: !0, duration: 1500 },
                     s.a.createElement(j, { logos: e.softwareSkills })
                   ),
                   s.a.createElement(
-                    d.Fade,
+                    u.Fade,
                     { right: !0, duration: 2e3 },
                     s.a.createElement(
                       "div",
@@ -3891,7 +3891,7 @@
             "div",
             { className: "skills-header-div" },
             s.a.createElement(
-              d.Fade,
+              u.Fade,
               { bottom: !0, duration: 2e3, distance: "20px" },
               s.a.createElement(
                 "h1",
@@ -3909,7 +3909,7 @@
           "div",
           { className: "footer-div" },
           s.a.createElement(
-            d.Fade,
+            u.Fade,
             null,
             s.a.createElement(
               "p",
@@ -4252,7 +4252,7 @@
         }
         render() {
           return this.state.redirect
-            ? s.a.createElement(m.a, { to: "/home" })
+            ? s.a.createElement(d.a, { to: "/home" })
             : s.a.createElement(lt, { theme: this.props.theme });
         }
       }
@@ -4267,7 +4267,7 @@
             { className: "degree-card" },
             t.logo_path &&
               s.a.createElement(
-                d.Flip,
+                u.Flip,
                 { left: !0, duration: 2e3 },
                 s.a.createElement(
                   "div",
@@ -4284,7 +4284,7 @@
                 )
               ),
             s.a.createElement(
-              d.Fade,
+              u.Fade,
               { right: !0, duration: 2e3, distance: "40px" },
               s.a.createElement(
                 "div",
@@ -4349,7 +4349,7 @@
               "div",
               { className: "educations-header-div" },
               s.a.createElement(
-                d.Fade,
+                u.Fade,
                 { bottom: !0, duration: 2e3, distance: "20px" },
                 s.a.createElement(
                   "h1",
@@ -4692,7 +4692,7 @@
               "div",
               { className: "basic-education" },
               s.a.createElement(
-                d.Fade,
+                u.Fade,
                 { bottom: !0, duration: 2e3, distance: "40px" },
                 s.a.createElement(
                   "div",
@@ -4726,7 +4726,7 @@
               style: { marginTop: 0 === e ? 30 : 50 },
             },
             s.a.createElement(
-              d.Fade,
+              u.Fade,
               { left: !0, duration: 2e3, distance: "40px" },
               s.a.createElement(
                 "div",
@@ -4762,7 +4762,7 @@
                 })
             ),
             s.a.createElement(
-              d.Fade,
+              u.Fade,
               { right: !0, duration: 2e3, distance: "40px" },
               s.a.createElement(
                 "div",
@@ -5356,7 +5356,7 @@
               "div",
               { className: "basic-experience" },
               s.a.createElement(
-                d.Fade,
+                u.Fade,
                 { bottom: !0, duration: 2e3, distance: "40px" },
                 s.a.createElement(
                   "div",
@@ -5425,7 +5425,7 @@
             "div",
             { className: "pr-chart" },
             s.a.createElement(
-              d.Fade,
+              u.Fade,
               { bottom: !0, duration: 2e3, distance: "20px" },
               s.a.createElement(
                 "h2",
@@ -5464,7 +5464,7 @@
             "div",
             { className: "issue-chart" },
             s.a.createElement(
-              d.Fade,
+              u.Fade,
               { bottom: !0, duration: 2e3, distance: "20px" },
               s.a.createElement(
                 "h2",
@@ -5497,7 +5497,7 @@
               "div",
               { className: "os-charts-header-div" },
               s.a.createElement(
-                d.Fade,
+                u.Fade,
                 { bottom: !0, duration: 2e3, distance: "20px" },
                 s.a.createElement(
                   "h1",
@@ -5542,7 +5542,7 @@
                     "li",
                     { className: "organizations-inline", name: t.login },
                     s.a.createElement(
-                      d.Fade,
+                      u.Fade,
                       { bottom: !0, duration: 2e3, distance: "40px" },
                       s.a.createElement("img", {
                         className: "organizations-img",
@@ -5569,7 +5569,7 @@
               "div",
               { className: "organizations-header-div" },
               s.a.createElement(
-                d.Fade,
+                u.Fade,
                 { bottom: !0, duration: 2e3, distance: "20px" },
                 s.a.createElement(
                   "h1",
@@ -5640,7 +5640,7 @@
             );
           } else r = s.a.createElement("noscript", null);
           return s.a.createElement(
-            d.Fade,
+            u.Fade,
             { bottom: !0, duration: 2e3, distance: "40px" },
             s.a.createElement(
               "div",
@@ -5771,7 +5771,7 @@
               "div",
               { className: "pull-requests-header-div" },
               s.a.createElement(
-                d.Fade,
+                u.Fade,
                 { bottom: !0, duration: 2e3, distance: "20px" },
                 s.a.createElement(
                   "h1",
@@ -5840,7 +5840,7 @@
             );
           } else r = s.a.createElement("noscript", null);
           return s.a.createElement(
-            d.Fade,
+            u.Fade,
             { bottom: !0, duration: 2e3, distance: "40px" },
             s.a.createElement(
               "div",
@@ -5940,7 +5940,7 @@
               "div",
               { className: "issues-header-div" },
               s.a.createElement(
-                d.Fade,
+                u.Fade,
                 { bottom: !0, duration: 2e3, distance: "20px" },
                 s.a.createElement(
                   "h1",
@@ -6236,7 +6236,7 @@
               "div",
               { className: "basic-contact" },
               s.a.createElement(
-                d.Fade,
+                u.Fade,
                 { bottom: !0, duration: 1e3, distance: "40px" },
                 s.a.createElement(
                   "div",
@@ -6283,7 +6283,7 @@
                 )
               ),
               s.a.createElement(
-                d.Fade,
+                u.Fade,
                 { bottom: !0, duration: 1e3, distance: "40px" },
                 s.a.createElement(
                   "div",
@@ -6405,7 +6405,7 @@
             style: { backgroundColor: a.highlight },
           },
           s.a.createElement(
-            d.Fade,
+            u.Fade,
             { bottom: !0, duration: 2e3, distance: "40px" },
             s.a.createElement(
               "div",
@@ -7165,7 +7165,7 @@
               "div",
               { className: "basic-projects" },
               s.a.createElement(
-                d.Fade,
+                u.Fade,
                 { bottom: !0, duration: 2e3, distance: "40px" },
                 s.a.createElement(
                   "div",
@@ -7231,7 +7231,7 @@
               "div",
               { className: "error-class" },
               s.a.createElement(
-                d.Fade,
+                u.Fade,
                 { bottom: !0, duration: 2e3, distance: "40px" },
                 s.a.createElement("h1", null, "Woops"),
                 s.a.createElement("h1", { className: "error-404" }, "404"),
@@ -7241,7 +7241,7 @@
                   "The requested page is unavailable at the moment!"
                 ),
                 s.a.createElement(
-                  u.b,
+                  m.b,
                   {
                     className: "main-button",
                     to: "/home",
@@ -7261,15 +7261,16 @@
           );
         }
       }
-      class ce extends r.Component {
+      const ce = m.a;
+      class he extends r.Component {
         render() {
           return s.a.createElement(
-            u.a,
+            ce,
             null,
             s.a.createElement(
-              m.d,
+              d.d,
               null,
-              s.a.createElement(m.b, {
+              s.a.createElement(d.b, {
                 path: "/",
                 exact: !0,
                 render: (t) =>
@@ -7283,7 +7284,7 @@
                         Object.assign({}, t, { theme: this.props.theme })
                       ),
               }),
-              s.a.createElement(m.b, {
+              s.a.createElement(d.b, {
                 path: "/home",
                 render: (t) =>
                   s.a.createElement(
@@ -7291,7 +7292,7 @@
                     Object.assign({}, t, { theme: this.props.theme })
                   ),
               }),
-              s.a.createElement(m.b, {
+              s.a.createElement(d.b, {
                 path: "/experience",
                 exact: !0,
                 render: (t) =>
@@ -7300,7 +7301,7 @@
                     Object.assign({}, t, { theme: this.props.theme })
                   ),
               }),
-              s.a.createElement(m.b, {
+              s.a.createElement(d.b, {
                 path: "/education",
                 render: (t) =>
                   s.a.createElement(
@@ -7308,7 +7309,7 @@
                     Object.assign({}, t, { theme: this.props.theme })
                   ),
               }),
-              s.a.createElement(m.b, {
+              s.a.createElement(d.b, {
                 path: "/opensource",
                 render: (t) =>
                   s.a.createElement(
@@ -7316,7 +7317,7 @@
                     Object.assign({}, t, { theme: this.props.theme })
                   ),
               }),
-              s.a.createElement(m.b, {
+              s.a.createElement(d.b, {
                 path: "/contact",
                 render: (t) =>
                   s.a.createElement(
@@ -7325,7 +7326,7 @@
                   ),
               }),
               p &&
-                s.a.createElement(m.b, {
+                s.a.createElement(d.b, {
                   path: "/splash",
                   render: (t) =>
                     s.a.createElement(
@@ -7333,7 +7334,7 @@
                       Object.assign({}, t, { theme: this.props.theme })
                     ),
                 }),
-              s.a.createElement(m.b, {
+              s.a.createElement(d.b, {
                 path: "/projects",
                 render: (t) =>
                   s.a.createElement(
@@ -7341,7 +7342,7 @@
                     Object.assign({}, t, { theme: this.props.theme })
                   ),
               }),
-              s.a.createElement(m.b, {
+              s.a.createElement(d.b, {
                 path: "*",
                 render: (t) =>
                   s.a.createElement(
@@ -7353,7 +7354,7 @@
           );
         }
       }
-      const he = {
+      const me = {
         body: "#EDF9FE",
         text: "#001C55",
         expTxtColor: "#000a12",
@@ -7366,10 +7367,10 @@
         headerColor: "#0E6BA877",
         splashBg: "#001C55",
       };
-      var me;
-      const de = Object(T.b)(
-        me ||
-          (me = Object(F.a)([
+      var de;
+      const ue = Object(T.b)(
+        de ||
+          (de = Object(F.a)([
             "\n  *,\n  *::after,\n  *::before {\n    box-sizing: border-box;\n  }\n\n  body {\n    align-items: center;\n    background: ",
             ";\n    color: ",
             ";\n    display: flex;\n    // flex-direction: column;\n    // justify-content: center;\n    // height: 100vh;\n    // margin: 0;\n    // padding: 0;\n    font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\n    transition: all 0.25s linear;\n  }",
@@ -7383,15 +7384,15 @@
           return e.text;
         }
       );
-      var ue = function () {
+      var pe = function () {
         return s.a.createElement(
           T.a,
-          { theme: he },
+          { theme: me },
           s.a.createElement(
             s.a.Fragment,
             null,
-            s.a.createElement(de, null),
-            s.a.createElement("div", null, s.a.createElement(ce, { theme: he }))
+            s.a.createElement(ue, null),
+            s.a.createElement("div", null, s.a.createElement(he, { theme: me }))
           )
         );
       };
@@ -7403,12 +7404,12 @@
           )
       );
       a(294);
-      const pe = new h.a();
+      const ge = new h.a();
       l.a.render(
         s.a.createElement(
           c.a,
-          { value: pe },
-          s.a.createElement(n.a, { theme: i.a }, s.a.createElement(ue, null))
+          { value: ge },
+          s.a.createElement(n.a, { theme: i.a }, s.a.createElement(pe, null))
         ),
         document.getElementById("root")
       ),
@@ -7420,4 +7421,4 @@
   ]),
   [[92, 1, 2]],
 ]);
-//# sourceMappingURL=main.b68e51c6.chunk.js.map
+//# sourceMappingURL=main.1404c2f1.chunk.js.map
