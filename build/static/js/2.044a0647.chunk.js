@@ -612,30 +612,34 @@
         l = n(8),
         s = n(2),
         u = n(4),
-        c = n(9);
-      a.a.Component;
-      var f = (function (e) {
-        function t() {
-          for (var t, n = arguments.length, r = new Array(n), i = 0; i < n; i++)
-            r[i] = arguments[i];
+        c = n(9),
+        f = (function (e) {
+          function t() {
+            for (
+              var t, n = arguments.length, r = new Array(n), i = 0;
+              i < n;
+              i++
+            )
+              r[i] = arguments[i];
+            return (
+              ((t = e.call.apply(e, [this].concat(r)) || this).history = Object(
+                l.a
+              )(t.props)),
+              t
+            );
+          }
           return (
-            ((t = e.call.apply(e, [this].concat(r)) || this).history = Object(
-              l.b
-            )(t.props)),
+            Object(i.a)(t, e),
+            (t.prototype.render = function () {
+              return a.a.createElement(r.c, {
+                history: this.history,
+                children: this.props.children,
+              });
+            }),
             t
           );
-        }
-        return (
-          Object(i.a)(t, e),
-          (t.prototype.render = function () {
-            return a.a.createElement(r.c, {
-              history: this.history,
-              children: this.props.children,
-            });
-          }),
-          t
-        );
-      })(a.a.Component);
+        })(a.a.Component);
+      a.a.Component;
       var d = function (e, t) {
           return "function" === typeof e ? e(t) : e;
         },
@@ -38312,4 +38316,4 @@
     },
   ],
 ]);
-//# sourceMappingURL=2.4b4c13a7.chunk.js.map
+//# sourceMappingURL=2.044a0647.chunk.js.map

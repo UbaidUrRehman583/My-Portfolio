@@ -485,9 +485,9 @@
           description:
             "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
           og: {
-            title: "Ubaid Hathidara Portfolio",
+            title: "Ubaid Ur Rehman Portfolio",
             type: "website",
-            url: "http://ashutoshhathidara.com/",
+            url: "https://ubaidurrehman583.github.io/My-Portfolio/",
           },
         },
         A = {
@@ -7266,17 +7266,23 @@
         render() {
           return s.a.createElement(
             ce,
-            null,
+            { basename: "/My-Portfolio" },
             s.a.createElement(
               d.d,
               null,
               s.a.createElement(d.b, {
                 path: "/",
+                exact: !0,
                 render: (t) =>
-                  s.a.createElement(
-                    rt,
-                    Object.assign({}, t, { theme: this.props.theme })
-                  ),
+                  p
+                    ? s.a.createElement(
+                        it,
+                        Object.assign({}, t, { theme: this.props.theme })
+                      )
+                    : s.a.createElement(
+                        rt,
+                        Object.assign({}, t, { theme: this.props.theme })
+                      ),
               }),
               s.a.createElement(d.b, {
                 path: "/home",
@@ -7415,4 +7421,4 @@
   ]),
   [[92, 1, 2]],
 ]);
-//# sourceMappingURL=main.8214fbc4.chunk.js.map
+//# sourceMappingURL=main.3531b7e5.chunk.js.map
