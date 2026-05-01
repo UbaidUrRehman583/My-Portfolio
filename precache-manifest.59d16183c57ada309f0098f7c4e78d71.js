@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "041f201ab4eb0f5bd14218b583af983a",
+    "revision": "c03ce155563ce130957fd592c56dda74",
     "url": "/My-Portfolio/index.html"
   },
   {
-    "revision": "131008e45feb3dd146e5",
-    "url": "/My-Portfolio/static/css/main.b5047ae2.chunk.css"
+    "revision": "9b83a711461be33f1994",
+    "url": "/My-Portfolio/static/css/main.8c3e213c.chunk.css"
   },
   {
-    "revision": "bb7ad88ad4da4d94292e",
-    "url": "/My-Portfolio/static/js/2.044a0647.chunk.js"
+    "revision": "a91d9c45b7360a91f9e2",
+    "url": "/My-Portfolio/static/js/2.dbb1e610.chunk.js"
   },
   {
-    "revision": "131008e45feb3dd146e5",
-    "url": "/My-Portfolio/static/js/main.f1a1ccc1.chunk.js"
+    "revision": "9b83a711461be33f1994",
+    "url": "/My-Portfolio/static/js/main.cedb0095.chunk.js"
   },
   {
     "revision": "eb9dce08aa8fea2071ed",
@@ -244,6 +244,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/My-Portfolio/static/media/pwa.71408db7.png"
   },
   {
+    "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
+    "url": "/My-Portfolio/static/media/roha_tech_logo.6eeb2e81.png"
+  },
+  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "/My-Portfolio/static/media/stanford_logo.2c497738.png"
   },
@@ -258,6 +262,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
     "url": "/My-Portfolio/static/media/tiktok_logo.0993e324.png"
+  },
+  {
+    "revision": "8f1bdd0a09a92040e8091af439b08dbe",
+    "url": "/My-Portfolio/static/media/ubaid_professional.8f1bdd0a.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
