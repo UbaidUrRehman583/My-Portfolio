@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "381bbeddd503a9a4f527a176e7c2bbbe",
+    "revision": "bfef1ec696185b5ea3d8f281fd9b50fd",
     "url": "/My-Portfolio/index.html"
   },
   {
-    "revision": "257ed5e374bf69c5cefd",
-    "url": "/My-Portfolio/static/css/main.8d68ffe8.chunk.css"
+    "revision": "a0c56b34a803973efa7b",
+    "url": "/My-Portfolio/static/css/main.ecf0e4bf.chunk.css"
   },
   {
-    "revision": "2dacb97e376e417f01d1",
-    "url": "/My-Portfolio/static/js/2.6ee2bcdb.chunk.js"
+    "revision": "345f262a7523ad973d6f",
+    "url": "/My-Portfolio/static/js/2.214d2969.chunk.js"
   },
   {
-    "revision": "257ed5e374bf69c5cefd",
-    "url": "/My-Portfolio/static/js/main.00c838f9.chunk.js"
+    "revision": "a0c56b34a803973efa7b",
+    "url": "/My-Portfolio/static/js/main.23b2b96f.chunk.js"
   },
   {
     "revision": "eb9dce08aa8fea2071ed",
@@ -262,10 +262,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
     "url": "/My-Portfolio/static/media/tiktok_logo.0993e324.png"
-  },
-  {
-    "revision": "8f1bdd0a09a92040e8091af439b08dbe",
-    "url": "/My-Portfolio/static/media/ubaid_professional.8f1bdd0a.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
