@@ -23,9 +23,11 @@ function SeoHeader() {
   let mail = socialMediaLinks
     .find((media) => media.link.startsWith("mailto"))
     .link.substring("mailto:".length);
-  let job = experience.sections
-    ?.find((section) => section.work)
-    ?.experiences?.at(0);
+  const workSection = experience.sections?.find((section) => section.work);
+  let job =
+    workSection && workSection.experiences && workSection.experiences.length > 0
+      ? workSection.experiences[0]
+      : null;
 
   let credentials = [];
   certifications.certifications.forEach((certification) => {
@@ -45,11 +47,13 @@ function SeoHeader() {
     email: mail,
     telephone: contactPageData.phoneSection?.subtitle,
     sameAs: sameAs,
-    jobTitle: job.title,
-    worksFor: {
-      "@type": "Organization",
-      name: job.company,
-    },
+    jobTitle: job ? job.title : greeting.title,
+    worksFor: job
+      ? {
+          "@type": "Organization",
+          name: job.company,
+        }
+      : undefined,
     address: {
       "@type": "PostalAddress",
       addressLocality: contactPageData.addressSection?.locality,

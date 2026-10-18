@@ -11,19 +11,19 @@ import Projects from "../pages/projects/Projects";
 import { settings } from "../portfolio.js";
 import Error404 from "../pages/errors/error404/Error";
 
-// ✅ Dynamically choose router
+// HashRouter for GitHub Pages (subpath /My-Portfolio/)
 const Router =
   process.env.NODE_ENV === "production" ? HashRouter : BrowserRouter;
 
 export default class Main extends Component {
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route
             path="/"
+            exact
             render={(props) => <Home {...props} theme={this.props.theme} />}
-            // exact
             // render={(props) =>
             //   settings.isSplash ? (
             //     <Splash {...props} theme={this.props.theme} />

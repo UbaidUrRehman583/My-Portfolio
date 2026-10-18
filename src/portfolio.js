@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Splash disabled so header logo and routes work normally.
 };
 
 //SEO Related settings
