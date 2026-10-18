@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Senior Android Developer | Android Technical Lead (Zindigi) at Roha Tech. I lead Kotlin and Jetpack Compose delivery for regulated digital banking: transfers, QR, remittance, and secure releases for 200K+ MAU fintech products.",
   resumeLink:
-    "https://drive.google.com/file/d/15tQHc6GrarKBLg9iBFfyNYnWJpLJXL-m/view?usp=drive_link",
+    "https://ubaidurrehman583.github.io/My-Portfolio/Ubaid_Resume.pdf",
   portfolio_repository: "https://github.com/UbaidUrRehman583/My-Portfolio.git",
   githubProfile: "https://github.com/UbaidUrRehman583",
 };
