@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34d7e7abcc64aced66fccf5771e954f5",
+    "revision": "477e5ecc25ea7d5d1ad9a34be395e5fd",
     "url": "/My-Portfolio/index.html"
   },
   {
-    "revision": "ded4c8e3da2e45b88145",
-    "url": "/My-Portfolio/static/css/main.ea39fe66.chunk.css"
+    "revision": "f5f52e6c8f1d5eb40b77",
+    "url": "/My-Portfolio/static/css/main.285bc776.chunk.css"
   },
   {
-    "revision": "1bcce2ac14912ae4ee7b",
-    "url": "/My-Portfolio/static/js/2.fe0aefaf.chunk.js"
+    "revision": "15afc109c65f2dc24442",
+    "url": "/My-Portfolio/static/js/2.9c545d97.chunk.js"
   },
   {
-    "revision": "ded4c8e3da2e45b88145",
-    "url": "/My-Portfolio/static/js/main.aaaad95f.chunk.js"
+    "revision": "f5f52e6c8f1d5eb40b77",
+    "url": "/My-Portfolio/static/js/main.343aa22c.chunk.js"
   },
   {
     "revision": "eb9dce08aa8fea2071ed",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "/My-Portfolio/static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "7ea18263430dabd37592534d3354e848",
+    "url": "/My-Portfolio/static/media/appinsnap_logo.7ea18263.jpeg"
   },
   {
     "revision": "4aec41af73bf82222a0ce44ba51abebd",
@@ -242,6 +246,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/My-Portfolio/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "417fdd7d38e4a0ab334683f2d0dbfd9e",
+    "url": "/My-Portfolio/static/media/roha_tech_logo.417fdd7d.jpeg"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
