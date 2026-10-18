@@ -7,13 +7,13 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ubaid's Portfolio",
+  title: "Ubaid Ur Rehman | Senior Android Developer",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Senior Android Developer and Android Technical Lead for Zindigi at Roha Tech. 5+ years building secure branchless banking, core banking, and fintech apps with Kotlin, Jetpack Compose, and Clean Architecture.",
   og: {
-    title: "Ubaid Hathidara Portfolio",
+    title: "Ubaid Ur Rehman Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://ubaidurrehman583.github.io/My-Portfolio/",
   },
 };
 
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Ubaid Ur Rehman",
   // nickname: "layman_brother",
   subTitle:
-    "A passionate Android developer with 4 years of experience building end-to-end fintech applications. Focused on creating sustainable, scalable, and secure mobile solutions that drive real-world impact through thoughtful design and robust architecture.",
+    "Senior Android Developer | Android Technical Lead (Zindigi) at Roha Tech. I lead Kotlin and Jetpack Compose delivery for regulated digital banking: transfers, QR, remittance, and secure releases for 200K+ MAU fintech products.",
   resumeLink:
     "https://drive.google.com/file/d/15tQHc6GrarKBLg9iBFfyNYnWJpLJXL-m/view?usp=drive_link",
   portfolio_repository: "https://github.com/UbaidUrRehman583/My-Portfolio.git",
@@ -32,6 +32,13 @@ const greeting = {
 
 const socialMediaLinks = [
   {
+    name: "WhatsApp",
+    link: "https://wa.me/923145837626",
+    fontAwesomeIcon: "fa-whatsapp",
+    backgroundColor: "#25D366",
+  },
+
+  {
     name: "Github",
     link: "https://github.com/UbaidUrRehman583",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
@@ -39,7 +46,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "www.linkedin.com/in/ubaid-ur-rehman-27645a140",
+    link: "https://www.linkedin.com/in/ubaid-ur-rehman-27645a140",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -82,10 +89,10 @@ const skills = {
       title: "Android Development",
       fileName: "AndroidDevImg",
       skills: [
-        "Building scalable and secure Android applications for fintech platforms using Kotlin and Jetpack Compose",
-        "Integrating payment gateways, biometric verification (BVS SDK), and QR code systems aligned with financial regulations",
-        "Implementing clean architecture (MVVM, Use Cases, Repository Pattern) for maintainable and modular codebases",
-        "Optimizing performance and protecting apps using Proguard and Dexguard for code obfuscation and runtime security",
+        "Leading Zindigi Android: multi-module Clean Architecture, Jetpack Compose, MVVM, Hilt, Coroutines, and Flow",
+        "Regulated payments: IBFT, QR, wallet transfers, remittance integrations, step-up auth, and SBP-aligned flows",
+        "Production hardening: ProGuard, DexGuard, encryption, secure storage, Firebase Crashlytics, Jenkins CI/CD",
+        "End-to-end delivery across JS Mobile, Aik Digital Wallet, Zindigi, and conversational banking assistant UX",
       ],
       softwareSkills: [
         {
@@ -203,116 +210,7 @@ const degrees = {
 };
 
 const certifications = {
-  certifications: [
-    {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
-    },
-    {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-  ],
+  certifications: [],
 };
 
 // Experience Page
@@ -344,14 +242,25 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Android Developer",
-          company: "AppInSnap",
-          company_url: "https://www.appinsnap.com/",
+          title: "Senior Android Developer / Android Technical Lead (Zindigi)",
+          company: "Roha Tech",
+          company_url: "",
           logo_path: "appinsnap_logo.png",
-          duration: "Nov 2021 – Present",
+          duration: "Aug 2025 - Present",
           location: "Islamabad, Pakistan",
           description:
-            "Leading the design and development of scalable fintech Android applications. Responsibilities include building secure payment systems, integrating third-party APIs (e.g., QR, BVS SDK), implementing clean architecture (MVVM, Use Cases, Repository Pattern), and managing releases on the Google Play Store. Optimized code using Proguard, and ensured runtime security with Dexguard.",
+            "Lead Android for Zindigi branchless banking: architecture, code reviews, and production releases. Own Jetpack Compose, MVVM, Hilt, and multi-module Clean Architecture. Deliver QR, remittance, and secure payment flows; ProGuard/DexGuard and Firebase Crashlytics. Support Aik Digital Wallet and related banking modules.",
+          color: "#0F9D58",
+        },
+        {
+          title: "Android Developer",
+          company: "App in Snap",
+          company_url: "https://www.appinsnap.com/",
+          logo_path: "appinsnap_logo.png",
+          duration: "Nov 2021 - Jul 2025",
+          location: "Islamabad, Pakistan",
+          description:
+            "Built fintech and core banking apps (JS Mobile, Zindigi, Aik Digital Wallet, eChallan, railway POS). Modular MVVM + Clean Architecture, REST/SDK integrations, biometrics, Jenkins CI/CD, Play Store releases.",
           color: "#4285F4",
         },
       ],
@@ -363,7 +272,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "Production Android apps for branchless banking and digital wallets: Kotlin, Jetpack Compose, secure payments, and regulated fintech delivery.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -374,29 +283,7 @@ const publicationsHeader = {
 };
 
 const publications = {
-  data: [
-    {
-      id: "neuro-symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
-    },
-    {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
-      createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
-    },
-    {
-      id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
-    },
-  ],
+  data: [],
 };
 
 // Contact Page
@@ -405,13 +292,13 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. Reach out for Android architecture, fintech mobile development, Jetpack Compose, or banking app integrations. I usually reply within 24 hours.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://github.com/UbaidUrRehman583",
     avatar_image_path: "blogs_image.svg",
   },
 
@@ -429,8 +316,47 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+92 314 5837626",
+    subtitle: "+92 314 5837626 | WhatsApp: https://wa.me/923145837626",
   },
+};
+
+const bigProjects = {
+  title: "Featured Projects",
+  subtitle: "Banking and fintech Android apps I build and lead",
+  projects: [
+    {
+      image: "projects_image.svg",
+      projectName: "Zindigi (Branchless Banking)",
+      projectDesc:
+        "Android lead for digital banking: transfers, QR, remittance, trading, and in-app security (Kotlin, Compose, Clean Architecture).",
+      footerLink: [
+        { name: "GitHub", url: "https://github.com/UbaidUrRehman583" },
+      ],
+    },
+    {
+      image: "projects_image.svg",
+      projectName: "Aik Digital Wallet (Bank Islami)",
+      projectDesc:
+        "Wallet transfers, bill pay, top-ups, card integrations with DexGuard/ProGuard hardening.",
+      footerLink: [
+        { name: "GitHub", url: "https://github.com/UbaidUrRehman583" },
+      ],
+    },
+    {
+      image: "projects_image.svg",
+      projectName: "JS Mobile (Core Banking)",
+      projectDesc:
+        "Core banking mobile: accounts, payments, utility bills, BVS biometric SDK, analytics.",
+      footerLink: [
+        { name: "GitHub", url: "https://github.com/UbaidUrRehman583" },
+      ],
+    },
+  ],
+};
+
+const openSource = {
+  githubConvertedToken: "",
+  githubUserName: "UbaidUrRehman583",
 };
 
 export {
@@ -447,4 +373,6 @@ export {
   publicationsHeader,
   publications,
   contactPageData,
+  bigProjects,
+  openSource,
 };
