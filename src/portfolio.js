@@ -218,7 +218,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Internship",
   description:
-    " I have worked as an Android Developer, contributing to secure, scalable, and user-centric mobile apps. My experience spans mobile architecture design, UI development with Jetpack Compose, SDK integration, and code optimization. I also actively engage with tech communities and enjoy contributing to open-source initiatives and knowledge sharing.",
+    "Senior Android Developer currently leading Zindigi at Roha Tech, with prior delivery of JS Mobile, Aik Digital Wallet, and other fintech apps at App in Snap. Focus on Jetpack Compose, multi-module Clean Architecture, regulated payments, and secure production releases.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -292,7 +292,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. Reach out for Android architecture, fintech mobile development, Jetpack Compose, or banking app integrations. I usually reply within 24 hours.",
+      "Available on email, WhatsApp, and LinkedIn. Reach out for Android architecture, fintech mobile development, Jetpack Compose, or banking app integrations — I usually reply within 24 hours.",
   },
   blogSection: {
     title: "Blogs",
