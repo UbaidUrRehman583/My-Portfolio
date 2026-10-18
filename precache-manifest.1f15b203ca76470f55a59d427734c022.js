@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33c560f6264578c64b153932fdc4d31d",
+    "revision": "f2747f45e0b69b8d40ddd0111896b448",
     "url": "/My-Portfolio/index.html"
   },
   {
-    "revision": "22f600bd2c4aaca76a1a",
-    "url": "/My-Portfolio/static/css/main.5e484660.chunk.css"
+    "revision": "81c1c4080e0046848e29",
+    "url": "/My-Portfolio/static/css/main.b5047ae2.chunk.css"
   },
   {
-    "revision": "d31f99cd7a3885615937",
-    "url": "/My-Portfolio/static/js/2.5297c966.chunk.js"
+    "revision": "a742e8894cc15f7bbc1b",
+    "url": "/My-Portfolio/static/js/2.4b4c13a7.chunk.js"
   },
   {
-    "revision": "22f600bd2c4aaca76a1a",
-    "url": "/My-Portfolio/static/js/main.a258370f.chunk.js"
+    "revision": "81c1c4080e0046848e29",
+    "url": "/My-Portfolio/static/js/main.6999bc69.chunk.js"
   },
   {
     "revision": "eb9dce08aa8fea2071ed",
@@ -242,10 +242,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/My-Portfolio/static/media/pwa.71408db7.png"
-  },
-  {
-    "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
-    "url": "/My-Portfolio/static/media/roha_tech_logo.6eeb2e81.png"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",

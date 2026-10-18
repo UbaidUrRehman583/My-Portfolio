@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.5e484660.chunk.css",
-    "main.js": "/My-Portfolio/static/js/main.a258370f.chunk.js",
-    "main.js.map": "/My-Portfolio/static/js/main.a258370f.chunk.js.map",
+    "main.css": "/My-Portfolio/static/css/main.b5047ae2.chunk.css",
+    "main.js": "/My-Portfolio/static/js/main.6999bc69.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.6999bc69.chunk.js.map",
     "runtime-main.js": "/My-Portfolio/static/js/runtime-main.889f8345.js",
     "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.889f8345.js.map",
-    "static/js/2.5297c966.chunk.js": "/My-Portfolio/static/js/2.5297c966.chunk.js",
-    "static/js/2.5297c966.chunk.js.map": "/My-Portfolio/static/js/2.5297c966.chunk.js.map",
+    "static/js/2.4b4c13a7.chunk.js": "/My-Portfolio/static/js/2.4b4c13a7.chunk.js",
+    "static/js/2.4b4c13a7.chunk.js.map": "/My-Portfolio/static/js/2.4b4c13a7.chunk.js.map",
     "index.html": "/My-Portfolio/index.html",
-    "precache-manifest.3462620ba98a96a4f6efae40b6ac1980.js": "/My-Portfolio/precache-manifest.3462620ba98a96a4f6efae40b6ac1980.js",
+    "precache-manifest.1f15b203ca76470f55a59d427734c022.js": "/My-Portfolio/precache-manifest.1f15b203ca76470f55a59d427734c022.js",
     "service-worker.js": "/My-Portfolio/service-worker.js",
-    "static/css/main.5e484660.chunk.css.map": "/My-Portfolio/static/css/main.5e484660.chunk.css.map",
+    "static/css/main.b5047ae2.chunk.css.map": "/My-Portfolio/static/css/main.b5047ae2.chunk.css.map",
     "static/media/index.css": "/My-Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/My-Portfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/My-Portfolio/static/media/animated_ashutosh.eaf02c2d.png",
@@ -46,7 +46,6 @@
     "static/media/programmer.svg": "/My-Portfolio/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/My-Portfolio/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/My-Portfolio/static/media/pwa.71408db7.png",
-    "static/media/roha_tech_logo.png": "/My-Portfolio/static/media/roha_tech_logo.6eeb2e81.png",
     "static/media/stanford_logo.png": "/My-Portfolio/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/My-Portfolio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/My-Portfolio/static/media/talksCardBackAlt.3fa54242.svg",
@@ -55,8 +54,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.889f8345.js",
-    "static/js/2.5297c966.chunk.js",
-    "static/css/main.5e484660.chunk.css",
-    "static/js/main.a258370f.chunk.js"
+    "static/js/2.4b4c13a7.chunk.js",
+    "static/css/main.b5047ae2.chunk.css",
+    "static/js/main.6999bc69.chunk.js"
   ]
 }
